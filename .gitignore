@@ -1,0 +1,15 @@
+# Ignorer le fichier contenant les variables d'environnement
+.env
+.env.local
+
+# Ignorer le dossier des dépendances PHP
+/vendor/
+
+# Ignorer les fichiers temporaires ou de configuration locale
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.cache
+*.tmp
+# Ignorer les fichiers de sauvegarde
